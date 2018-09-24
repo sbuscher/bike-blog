@@ -20,16 +20,16 @@ title                    : "Bike Affair"
 title_separator          : "-"
 name                     : "Shane Buscher"
 description              : "The bike side"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bike.shanebuscher.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sbuscher/bike-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "bike-shanebuscher-com-1"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -93,9 +93,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-108245680-1"
     anonymize_ip         : # true, false (default)
 
 
