@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bike Affair"
 title_separator          : "-"
 name                     : "Shane Buscher"
-description              : "The bike side"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Shane Buscher"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Everyday cyclist"
+  bio              : "Pedals bikes"
   location         : "Midwest"
   email            :
   links:
@@ -283,6 +283,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
