@@ -12,7 +12,7 @@ Training actually commenced 3 weeks ago, a few days after official notification 
 Trainer Road breaks up training into Base, Build and Specialty Phases: 
 
 <figure>
-    <a href='{{ site.url }}{{ site.baseurl }}/assets/images/structured-training.png'><img src='{{ site.url }}{{ site.baseurl }}/assets/images/structured-training.png'></a>
+    <a href='{{ site.url }}{{ site.baseurl }}/assets/images/structured-training.png'><img src='{{ site.url }}{{ site.baseurl }}/assets/images/structured-training.PNG'></a>
 </figure>
 
 Within each phase you choose an appropriate target and volume. Here's my initial approach:
