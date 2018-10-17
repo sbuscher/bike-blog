@@ -4,13 +4,8 @@ var store = [{
         "tags": ["iowa-wind-and-rock"],
         "url": "http://localhost:4000/gravel/i-won-the-lottery/",
         "teaser":null},{
-        "title": "Gear",
-        "excerpt":"Clothing             Item      Choice      Comments                  Shoes      TBD                     Gloves                    Food and Hydration   Caffeine tablets  IbuprofenBike Gear   Tube(s)  C02  Pump  Tire levers  Patch kit  Chain breaker tool  Multi tool  Head lamp  Bike lamp  Battery charger/cable  Elemnt Bolt  Queue card holder  Lube","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/gear/",
-        "teaser":null},{
         "title": "Training Commences",
-        "excerpt":"Training actually commenced 3 weeks ago, a few days after official notification that I was in for the first annual Iowa Wind and Rock. There’s no magic formula on training for a 340 mile gravel race. My goal was just to get started with some base training since my riding...","categories": ["training"],
+        "excerpt":"Training actually commenced 3 weeks ago, a few days after official notification that I was in for the first annual Iowa Wind and Rock. There’s no magic formula on training for a 340 mile gravel race. My goal was just to get started with some base training as my riding...","categories": ["training"],
         "tags": ["iowa-wind-and-rock"],
-        "url": "http://localhost:4000/training/training-plan/",
+        "url": "http://localhost:4000/training/training-commences/",
         "teaser":null}]
